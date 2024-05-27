@@ -25,4 +25,3 @@ Conducting a comprehensive retail analysis of Walmart Superstore's sales and pro
 
 ## CONCLUSION: 
 The dynamic dashboard provides a comprehensive view of Walmart Superstore's sales and profitability, empowering stakeholders to make informed decisions, optimize operations, and drive growth in the competitive retail landscape.
----
