@@ -4,7 +4,7 @@ Excel File link : https://docs.google.com/spreadsheets/d/1dOxa8CTKlb3QOj7BNX574r
 ## OBJECTIVE: 
 Conducting a comprehensive retail analysis of Walmart Superstore's sales and profitability to develop a dynamic dashboard that provides actionable insights for strategic decision-making and operational optimization.
 
-## KEY FEATUREs:
+## KEY FEATURES:
 
 - KPI (SPARKLINE-ENABLED) : Utilize Sparklines to display vital metrics like total sales revenue, profit margin, sales growth rate, and average transaction value for quick trend analysis.
 
