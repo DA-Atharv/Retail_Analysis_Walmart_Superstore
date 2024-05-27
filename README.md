@@ -1,9 +1,9 @@
 # Retail_Analysis_Walmart_Superstore_Dashboard:
 Excel File link : https://docs.google.com/spreadsheets/d/1dOxa8CTKlb3QOj7BNX574rHMD1tQ-dY2/edit?usp=sharing&ouid=103214557259220708096&rtpof=true&sd=true
-
+---
 ## OBJECTIVE: 
 Conducting a comprehensive retail analysis of Walmart Superstore's sales and profitability to develop a dynamic dashboard that provides actionable insights for strategic decision-making and operational optimization.
-
+---
 ## KEY FEATURES:
 
 - KPI (SPARKLINE-ENABLED) : Utilize Sparklines to display vital metrics like total sales revenue, profit margin, sales growth rate, and average transaction value for quick trend analysis.
@@ -22,6 +22,7 @@ Conducting a comprehensive retail analysis of Walmart Superstore's sales and pro
 
 ![image](https://github.com/DA-Atharv/Retail_Analysis_Walmart_Superstore/assets/159448408/a81a16ce-8dad-4046-99c8-bb8cb1cf7277)
 ![image](https://github.com/DA-Atharv/Retail_Analysis_Walmart_Superstore/assets/159448408/43e7c2d1-7004-4b2f-a7d8-f57aaddf274a)
-
+---
 ## CONCLUSION: 
 The dynamic dashboard provides a comprehensive view of Walmart Superstore's sales and profitability, empowering stakeholders to make informed decisions, optimize operations, and drive growth in the competitive retail landscape.
+---
