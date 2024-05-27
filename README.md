@@ -2,7 +2,7 @@
 Excel File link : https://docs.google.com/spreadsheets/d/1dOxa8CTKlb3QOj7BNX574rHMD1tQ-dY2/edit?usp=sharing&ouid=103214557259220708096&rtpof=true&sd=true
 
 ## OBJECTIVE: 
-Conducting a comprehensive retail analysis of Walmart Superstore's sales and profitability to develop a dynamic dashboard that provides actionable insights for strategic decision-making and operational optimization.
+Conducting a comprehensive retail analysis of Walmart Superstore's sales and profitability, providing actionable insights for strategic decision-making and operational optimization. The dynamic dashboard, designed in Microsoft Excel, visualizes key performance indicators (KPIs) and analyzes sales and profitability across various dimensions.
 
 ## KEY FEATURES:
 
